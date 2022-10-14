@@ -1,2 +1,2 @@
-# ConnectFour
-Connect four game
+# FindFour
+Find four game
